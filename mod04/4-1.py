@@ -7,3 +7,4 @@ kuha_pituus = int(input("Syötä kuhan pituus: "))
 if kuha_pituus < 37:
     print("Kuhasi on " + str(37 - kuha_pituus) + " senttiä alamittainen, heitä se takaisin järveen.")
 
+

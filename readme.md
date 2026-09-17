@@ -7,3 +7,5 @@ Kaikki tehtävät tehty.
 ## Moduuli 4
 Kaikki tehtävät tehty.
 ## Moduuli 5
+Tehtävät 1-5 thety.
+## Moduuli &
