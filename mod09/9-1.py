@@ -11,7 +11,11 @@ class Auto:
         self.nopeus = nopeus
         self.matka = matka
 
-Auto1 = Auto("ABC-123", "142 km/h")
+    
+
+Auto1 = Auto("ABC-123", 142)
+
+# Pääohjelma
 print(f"Rekisteritunnus:{Auto1.rekisteritunnus}\nHuippunopeus:{Auto1.huippunopeus}\nNopeus:{Auto1.nopeus}\nMatka:{Auto1.matka}")
 
 
