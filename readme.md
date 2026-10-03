@@ -17,3 +17,5 @@ Kaikki tehtävät tehty.
 ## Moduuli 9
 Kaikki tehtävät tehty.
 ## Moduuli 10
+Tein tehtävät 1-3
+## Moduuli 11
