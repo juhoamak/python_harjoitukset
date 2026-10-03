@@ -13,6 +13,7 @@ Kaikki tehtävät tehty.
 ## Moduuli 7
 Kaikki tehtävät tehty.
 ## Moduuli 8
-
+1-2 tehtävät tehty.
 ## Moduuli 9
 Kaikki tehtävät tehty.
+## Moduuli 10
